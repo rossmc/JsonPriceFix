@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+  	<!-- This module fixes an issue with Magento CE 1.9.3 that does not update prices on configurable or bundles products properly.
+  	For more info see - https://github.com/rossmc/JsonPriceFix -->
+    <Rossmc_JsonPriceFix>
+		<active>true</active>
+		<codePool>community</codePool>
+		<version>0.1.0</version>
+    </Rossmc_JsonPriceFix>
+  </modules>
+</config>
