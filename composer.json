@@ -1,0 +1,9 @@
+{
+    "name": "rossmc/jsonpricefix"
+  , "type": "magento-module"
+  , "license": "Open Software License (OSL 3.0)"
+  , "description": "Rossmc JsonPriceFix for Magento 1.9.3"
+  , "require": {
+      "magento-hackathon/magento-composer-installer": "~3.0"
+    }
+}
